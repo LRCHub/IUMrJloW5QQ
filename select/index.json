@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "CHANGE!!!! (M@STER VERSION)",
+  "base_artist": "765PRO ALLSTARS",
+  "createdAt": "2025-12-29T12:02:40.827595Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CHANGE!!!!(M@STER VERSION)",
+      "artist": "765PRO ALLSTARS",
+      "has_synced": true,
+      "path": "select/01_CHANGE!!!!(M@STER_VERSION)_765PRO_ALLSTARS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "CHANGE!!!! (M@STER VERSION)",
+      "artist": "765PRO ALLSTARS",
+      "has_synced": true,
+      "path": "select/02_CHANGE!!!!_(M@STER_VERSION)_765PRO_ALLSTARS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "CHANGE!!!!(M@STER VERSION) [ORT]",
+      "artist": "765PRO ALLSTARS",
+      "has_synced": true,
+      "path": "select/03_CHANGE!!!!(M@STER_VERSION)_[ORT]_765PRO_ALLSTARS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "CHANGE!!!! - M@STER VERSION",
+      "artist": "765PRO ALLSTARS",
+      "has_synced": true,
+      "path": "select/04_CHANGE!!!!_-_M@STER_VERSION_765PRO_ALLSTARS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "CHANGE!!!! (M@STER VERSION)",
+      "artist": "765PRO",
+      "has_synced": true,
+      "path": "select/05_CHANGE!!!!_(M@STER_VERSION)_765PRO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "CHANGE!!! (M@STER VERSION)",
+      "artist": "765PRO ALLSTARS",
+      "has_synced": true,
+      "path": "select/06_CHANGE!!!_(M@STER_VERSION)_765PRO_ALLSTARS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CHANGE!!!! (M@STER VERSION)",
+      "artist": "765PRO ALLSTARS",
+      "has_synced": false,
+      "path": "select/pl_01_CHANGE!!!!_(M@STER_VERSION)_765PRO_ALLSTARS.txt"
+    }
+  ]
+}
